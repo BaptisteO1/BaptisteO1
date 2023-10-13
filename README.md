@@ -72,6 +72,4 @@ Here are some ideas to get you started:
 <p align="left">
 </p>
 
-<p>
-  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=baptisteo1&show_icons=true&title_color=ffffff&text_color=ffffff&locale=en&layout=compact" alt="baptisteo1" />
-</p>
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=BaptisteO1&theme=github_dark)
