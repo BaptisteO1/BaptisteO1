@@ -44,8 +44,6 @@ Here are some ideas to get you started:
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=BaptisteO1&theme=github_dark)
 <br>
-<div aligne="center>
-    
+   
 ![fire](https://github.com/BaptisteO1/BaptisteO1/assets/95340891/79de5d30-5c65-4d1d-8422-bb57a992ed00)
-    
-</div>
+  
