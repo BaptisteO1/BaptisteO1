@@ -23,6 +23,8 @@ Here are some ideas to get you started:
 - 🔭 I’m currently working on [My portfolio in vue.js](https://baptisteo1.github.io/baptiste_dev/)
 
 - 🌱 I’m currently learning **Vue, PHP**
+  
+- 🌱 I am collaborating with [pangaia.app](https://framagit.org/gardeners/pangaia-server)
 
 - 👨‍💻 All of my projects are available at [baptistemarie-dev.fr](baptistemarie-dev.fr)
 
